@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Somthing of Allies
+My Own Mess
 Use the left arrow to go back!
